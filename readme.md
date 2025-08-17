@@ -23,5 +23,5 @@ This is a simple **ToDo App** built with:
 - REST API endpoints
 
 ### ToDo Application 
-<img src="static/ToDo Application .png">
+![todo app](assets/ToDo Application .png)
 
